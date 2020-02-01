@@ -21,5 +21,5 @@ class AddonsMetaData
 randomSeed=1696265;
 class ScenarioData
 {
-	author="Heino", "Feeniks_FIN";
+	author="Heino";
 };
