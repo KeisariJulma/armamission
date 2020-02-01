@@ -1,4 +1,7 @@
 # armamission
 Ideat:
-RHS
-tanoa
+RHS,
+tanoa,
+valtio,
+behind the lines,
+invasion
