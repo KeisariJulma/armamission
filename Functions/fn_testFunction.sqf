@@ -1,1 +1,1 @@
-hint "Hi I'm test function";
+hint "Hi I'm test function"

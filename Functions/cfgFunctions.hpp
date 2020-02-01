@@ -1,14 +1,11 @@
-disabledAI = 0;
-enableDebugConsole = 1;
-
 class CfgFunctions
 {
   class EXZ
   {
     class Functions {
       file = "Functions";
-      //function name {};
-      testFunction {};
+      //class function name{};
+      class testFunction{};
     };
   };
 };
