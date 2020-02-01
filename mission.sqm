@@ -8,14 +8,14 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=46;
+		nextID=48;
 	};
 	class Camera
 	{
-		pos[]={12271.971,5.6390815,1449.7191};
-		dir[]={0.54838413,-0.63223326,-0.54746497};
-		up[]={0.44747338,0.77473098,-0.44672343};
-		aside[]={-0.7065751,-1.3842946e-006,-0.70776016};
+		pos[]={12294.203,9.8298473,1445.1818};
+		dir[]={-0.89384198,-0.42910421,-0.13018061};
+		up[]={-0.42469427,0.90322238,-0.061853819};
+		aside[]={-0.14412501,1.7146522e-007,0.98957574};
 	};
 };
 binarizationWanted=0;
@@ -456,7 +456,7 @@ class Mission
 			};
 			id=12;
 			type="B_Boat_Transport_01_F";
-			atlOffset=0.016065072;
+			atlOffset=0.024236411;
 		};
 		class Item1
 		{
@@ -1114,6 +1114,7 @@ class Mission
 					};
 					id=41;
 					type="rhs_vmf_recon_arifleman";
+					atlOffset=-1.2218952e-005;
 					class CustomAttributes
 					{
 						class Attribute0
