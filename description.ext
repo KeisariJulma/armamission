@@ -1,0 +1,4 @@
+#include "Functions\cfgFunctions.hpp"
+
+disabledAI = 1;
+enableDebugConsole = 1;
