@@ -4,8 +4,8 @@ class CfgFunctions
   {
     class Functions {
       file = "Functions";
-      //class function name{};
-      class testFunction{};
+      //class function name {};
+      class testFunction {};
     };
   };
 };
